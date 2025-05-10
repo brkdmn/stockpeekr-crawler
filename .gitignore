@@ -23,3 +23,19 @@ go.work.sum
 
 # env file
 .env
+
+
+# Go build
+/bin/
+/pkg/
+
+# Dependency directories
+/vendor/
+
+# IDE ve sistem dosyaları
+.DS_Store
+.env
+*.log
+
+# Test çıktı dosyaları
+*.out
